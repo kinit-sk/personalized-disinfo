@@ -1,5 +1,5 @@
 # Evaluation of LLM Vulnerabilities to Being Misused for Personalized Disinformation Generation
-Source code for replication of the [paper](https://arxiv.org/abs/2412.13666) (accepted to ACL 2025 Main) experiments for non-commercial research purpose only.
+Source code for replication of the [paper](https://arxiv.org/abs/2412.13666) (accepted to ACL 2025 Main) experiments for non-commercial research purpose only. The PerDisNews dataset can be downloaded from [Zenodo](https://zenodo.org/records/15463489).
 
 ## Cite
 If you use the data, code, or the information in this repository, cite the following paper, please<!-- (also available on [arXiv](https://arxiv.org/abs/2412.13666))-->.
